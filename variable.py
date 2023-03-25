@@ -1,4 +1,4 @@
-"""Num = 23
+Num = 23
 num1 = 1.25
 valor = "hola"
 v1 = True
@@ -70,7 +70,7 @@ print ("Su divisor es %d" % (dato2))
 print("Su cociente es %d" % (division))
 print("Su residuo es %d" % (residuo))
 
-print ("El cociente es", dato1 // dato2, "El residuo es", dato1 % dato2, "El dividendo es","\n", "y el divisor es", dato2)"""
+print ("El cociente es", dato1 // dato2, "El residuo es", dato1 % dato2, "El dividendo es","\n", "y el divisor es", dato2)
 dato1 = int(input("Ingrese un numero:")) 
 dato2 = int(input("Ingrese un numero:"))
 print (f"\tcociente {dato1//dato2}\n\tresiduo {dato1%dato2}\n\tdividendo {dato1}\n\tdivisor {dato2}")
